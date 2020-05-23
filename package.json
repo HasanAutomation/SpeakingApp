@@ -1,0 +1,22 @@
+{
+  "name": "textapi",
+  "version": "1.0.0",
+  "description": "This is a text to speech app",
+  "homepage":"https://hasanAutomation.github.io/SpeakingApp",
+  "main": "index.js",
+  "scripts": {
+    "deploy":"gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HasanAutomation/SpeakingApp.git"
+  },
+  "author": "Hasan Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HasanAutomation/SpeakingApp/issues"
+  },
+  "devDependencies": {
+    "ghpages": "0.0.10"
+  }
+}
